@@ -14,8 +14,6 @@ Automatically locating and classifying the cellular landscape of glioma biopsy i
 | 2. **Two‑Stage CNN** | YOLOv8                 | ResNet‑based Multi‑Head CNN | 64 %           | 93 %\*                    |
 | 3. **Two‑Stage ViT** | YOLOv8                 | ViT‑based Multi‑Head        | **94 %**       | **98 %**\*                |
 
-<sup>\*Binary accuracies are averaged across validation folds; see `/reports/metrics.xlsx` for full numbers.</sup>
-
 ---
 
 ## 2  Dataset
