@@ -50,12 +50,9 @@ All images were resized to **512 × 512** px, normalized to ImageNet statis
 
 ### 3.3  YOLOv8 + Multi‑Head Vision Transformer *(Best)*
 
-* Replaces ResNet with a ViT‑B/16 pretrained on ImageNet‑21k.
+* Replaces ResNet with a ViT pretrained.
 * Multi‑head outputs identical to §3.2.
 * Large receptive field → superior context capture → +30 pp accuracy.
-
-> Detailed training hyper‑parameters are in `/configs/*.yaml`.
-
 ---
 
 ## 4  Quick Start
