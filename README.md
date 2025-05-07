@@ -8,11 +8,11 @@
 
 Automatically locating and classifying the cellular landscape of glioma biopsy images accelerates diagnosis, treatment planning, and therapeutic research. We benchmarked three deep‑learning pipelines built around **YOLOv8** detection and multi‑head classifiers to identify *astrocytes*, *microglia*, and *cancerous glioma* cells.
 
-| Pipeline             | Detector               | Classifier                  | Cell‑Type Acc. | Binary (Cancer vs Normal) |
-| -------------------- | ---------------------- | --------------------------- | -------------- | ------------------------- |
-| 1. **Single‑Stage**  | YOLOv8‑Seg (3 classes) | —                           | 40 %           | —                         |
-| 2. **Two‑Stage CNN** | YOLOv8                 | ResNet‑based Multi‑Head CNN | 64 %           | 93 %\*                    |
-| 3. **Two‑Stage ViT** | YOLOv8                 | ViT‑based Multi‑Head        | **94 %**       | **98 %**\*                |
+| Pipeline             | Detector               | Classifier                  | Cell‑Type Acc. | 
+| -------------------- | ---------------------- | --------------------------- | -------------- |
+| 1. **Single‑Stage**  | YOLOv8‑Seg (3 classes) | —                           | 40 %           |
+| 2. **Two‑Stage CNN** | YOLOv8                 | ResNet‑based Multi‑Head CNN | 64 %           |
+| 3. **Two‑Stage ViT** | YOLOv8                 | ViT‑based Multi‑Head        | 96 %           |
 
 ---
 
