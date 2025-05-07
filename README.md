@@ -1,9 +1,5 @@
 # Glioma Brain‑Tumor Cell Classification
 
-<p align="center">
-  <img src="docs/header.png" alt="Glioma classification banner" width="80%"/>
-</p>
-
 > **Timeline:** **Aug 2024 – Nov 2024**   |   **Collaborators:** IIT Jodhpur × AIIMS Jodhpur   |   **Live demo:** [https://glioma‑cells‑demo.streamlit.app](https://glioma‑cells‑demo.streamlit.app)   |   **Repo:** [https://github.com/YOUR‑ORG/glioma‑cell‑classify](https://github.com/YOUR‑ORG/glioma‑cell‑classify)
 
 ---
